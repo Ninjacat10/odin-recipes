@@ -1,0 +1,77 @@
+#title {
+    color:brown
+}
+.recipe {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+h1 {
+    color: red;
+}
+li {
+    color: blue;
+}
+p {
+    color: green;
+}
+a {
+    color: yellow;
+}
+body {
+    background-color: lightgray;
+}
+h1,
+li,
+p,
+a {
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    font-size: 2em;
+}
+li {
+    font-size: 1.5em;
+}
+p {
+    font-size: 1.2em;
+}
+a {
+    font-size: 1.2em;
+}
+h1,
+li,
+p,
+a {
+    text-align: center;
+}
+h1 {
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+}
+h1:hover {
+    color: darkred;
+}
+a:hover {
+    color: darkblue;
+}
+li:hover {
+    color: darkgreen;
+}
+p:hover {
+    color: darkorange;
+}
+/* This is a CSS file for styling HTML elements in a recipe project */
+/* It includes styles for headings, lists, paragraphs, and links */
+/* The styles are applied to the entire document using the body selector */
+/* The font family is set to 'Courier New', Courier, monospace */
+/* The font size is set to 1.2em for headings, lists, paragraphs, and links */
+/* The text alignment is set to center for headings, lists, paragraphs, and links */
+/* The underline decoration is added to the heading */
+/* The link decoration is set to none */
+/* Hover effects change the color of headings, lists, paragraphs, and links */
+/* The background color of the body is set to lightgray */
