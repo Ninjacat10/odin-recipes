@@ -1,5 +1,6 @@
 #title {
-    color:brown
+    color:brown;
+    flex: 1 1 auto;
 }
 .recipe {
     font-family: Arial, sans-serif;
@@ -10,6 +11,7 @@
 }
 h1 {
     color: red;
+    flex: 1 ;
 }
 li {
     color: blue;
